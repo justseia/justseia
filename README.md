@@ -12,8 +12,8 @@
 
 <!-- 🌟 PROFILE VIEWS & BADGES -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=seiitmurat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/seiitmurat?label=Followers&style=social" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=justseia&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/justseia?label=Followers&style=social" alt="Followers" />
   <img src="https://img.shields.io/badge/Focus-Backend%20Dev-blue" alt="Focus" />
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-brightgreen" alt="Open to collaboration" />
 </div>
@@ -101,16 +101,16 @@ fun_fact: "I ship production code, commercial proposals,
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seiitmurat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seiitmurat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=justseia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justseia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=seiitmurat&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=justseia&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=seiitmurat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=justseia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
 </div>
 
 ---
@@ -127,15 +127,12 @@ fun_fact: "I ship production code, commercial proposals,
   <a href="https://wa.me/77064301045" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="mailto:seiitmurat@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </div>
 
 ---
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/seiitmurat">Seiitmurat</a> — let's build something great together.</i>
+  <i>⭐️ From <a href="https://github.com/justseia">Seiitmurat</a> — let's build something great together.</i>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
