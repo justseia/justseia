@@ -109,10 +109,6 @@ fun_fact: "I ship production code, commercial proposals,
   <img src="https://streak-stats.demolab.com?user=justseia&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=justseia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
-</div>
-
 ---
 
 ## 📫 Connect with Me
